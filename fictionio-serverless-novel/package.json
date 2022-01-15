@@ -1,0 +1,53 @@
+{
+  "name": "fictionio-serverless-novel",
+  "version": "1.0.0",
+  "description": "Micro service for fiction management of Fictionio system",
+  "main": "fiction-build/index.js",
+  "keywords": [
+    "serverless",
+    "offline",
+    "typescript"
+  ],
+  "author": "Anupol Anekpattanakij <a.anekpattanakij@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --project tsconfig.json ",
+    "deploy-offline-function-service1": "functions deploy fiction --trigger-http",
+    "deploy-offline-function-service2": "functions deploy chapter --trigger-http",
+    "deploy-offline-function-service3": "functions deploy news --trigger-http",
+    "deploy-offline-function-service4": "functions deploy annoucements --trigger-http",
+    "deploy-offline-function-service5": "functions deploy genres --trigger-http",
+    "deploy-offline-function-service6": "functions deploy search --trigger-http",
+    "deploy-function-service1": "gcloud functions deploy fiction --runtime nodejs8 --trigger-http",
+    "deploy-function-service2": "gcloud functions deploy chapter --runtime nodejs8 --trigger-http",
+    "deploy-function-service3": "functions deploy news --trigger-http",
+    "deploy-function-service4": "gcloud functions deploy annoucements --runtime nodejs8 --trigger-http",
+    "deploy-function-service5": "functions deploy genres --trigger-http",
+    "deploy-function-service6": "functions deploy search --trigger-http"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^1.3.0",
+    "@google-cloud/pubsub": "^0.28.1",
+    "@google-cloud/storage": "^2.5.0",
+    "@types/node": "^12.0.0",
+    "@types/validator": "^10.11.0",
+    "axios": "^0.18.0",
+    "franc-min": "^4.1.0",
+    "js-sha3": "^0.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.24.0",
+    "path-to-regexp": "^3.0.0",
+    "sanitize-html": "^1.20.1",
+    "stampery": "^6.1.0",
+    "ts-loader": "^6.0.0",
+    "typescript": "^3.4.5",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "prettier": "^1.16.4",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript-eslint-parser": "^22.0.0"
+  }
+}

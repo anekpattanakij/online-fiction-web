@@ -1,0 +1,18 @@
+{
+  "guest" : "ไม่ได้เข้าสู่ระบบ",
+  "menu-fiction": "นิยาย",
+  "menu-info": "ข้อมูลอื่นๆ",
+  "menu-privacy-policy" : "นโยบายคุ้มครองข้อมูลส่วนบุคคล",
+  "menu-term-of-use" : "ข้อกำหนดการใช้งาน",
+  "menu-about-us" : "เกี่ยวกับเรา",
+  "menu-write-new-story": "เริ่มเขียนนิยาย",
+  "menu-translate-fiction": "แปลนิยายที่ชอบ",
+  "menu-fiction-search": "ค้นหา",
+  "menu-fiction-add": "เพิ่มนิยายใหม่",
+  "menu-fiction-login": "เข้าสู่ระบบ",
+  "menu-fiction-signup": "ลงทะเบียน",
+  "menu-fiction-profile": "ข้อมูลผู้ใช้งาน",
+  "menu-fiction-coin": "เหรียญ",
+  "menu-fiction-log-out" : "ออกจากระบบ",
+  "menu-search" : "ค้นหานิยาย"
+}

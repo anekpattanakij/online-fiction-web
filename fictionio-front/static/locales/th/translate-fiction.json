@@ -1,0 +1,22 @@
+{
+  "fiction-translate-title": "แปลนิยาย - Fictionio",
+  "fiction-translate-title-success": "เพิ่มนิยายคำแปลสำเร็จ - Fictionio",
+  "fiction-translate-header": "แปลนิยายเรื่อง",
+  "fiction-translate-success": "บันทึกคำแปล {{fictionname}} สำเร็จ",
+  "fiction-name": "ชื่อนิยาย",
+  "translate-fiction-name": "คำแปลชื่อนิยาย",
+  "translate-fiction-name-place-holder": "(ระบุเป็นภาษาเดียวกับภาษา่แปล)",
+  "original-language": "ภาษาต้นฉบับ",
+  "to-language": "แปลเป็นภาษา",
+  "to-language-place-holder": "กรุณาเลือก",
+  "short-story": "เรื่องย่อ",
+  "translate-short-story": "คำแปลเรื่องย่อ",
+  "translate-short-story-place-holder": "(ระบุเป็นภาษาเดียวกับภาษาที่แปล)",
+  "save-translate-fiction": "บันทึกคำแปลนิยาย",
+  "price-model": "รูปแบบราคา",
+  "price-model-place-holder": "รูปแบบราคา",
+  "price": "ราคา",
+  "price-place-holder": "ราคา",
+  "not-translate-yet" : "ยังไม่มีผู้แปล",
+  "not-allow-to-translate" : "ไม่อนุญาตให้แปลนิยายจากตอนที่ได้รับการแปลแล้ว"
+}

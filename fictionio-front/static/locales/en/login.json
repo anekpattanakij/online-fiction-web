@@ -1,0 +1,10 @@
+{
+  "title-login": "Login", 
+  "user-login": "Login",
+  "email": "E-mail",
+  "username" : "Username",
+  "password" : "Password",
+  "login" : "Login",
+  "reset-password" : "Reset Password",
+  "signup" : "Sign up"
+}

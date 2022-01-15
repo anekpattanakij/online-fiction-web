@@ -1,0 +1,12 @@
+{
+  "title": " - Fictionio",
+  "dashboard": "แดชบอร์ด",
+  "ERROR_USER_NOT_FOUND": "ไม่พบรหัสผู้ใช้งานนี้หรือผู้ใช้งานนี้อยู่ระหว่างการถูกระงับการใช้งาน",
+  "display-name": "ชื่อที่แสดง",
+  "joined": "เข้าร่วม",
+  "last-login": "ออนไลน์ล่าสุด",
+  "published-fiction": "จำนวนนิยายที่เผยแพร่",
+  "published-chapter": "จำนวนตอนที่เผยแพร่",
+  "write-fiction": "นิยายที่เขียน",
+  "translate-fiction": "นิยายที่แปล"
+}

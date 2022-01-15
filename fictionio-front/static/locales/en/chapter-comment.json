@@ -1,0 +1,10 @@
+{
+    "title" : "- Comments - Fictionio",
+    "need-login" : "You need to login before posting any comment.",
+    "back" : "Back",
+    "comment" : "Comment",
+    "short-chapter" : "Ch.",
+    "special-chapter" : "Sp. Ch.",
+    "comment-placeholder" : "Comment Here",
+    "ERROR_CHAPTER_NOT_FOUND" : "Chapter not found"
+}

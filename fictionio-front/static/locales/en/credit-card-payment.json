@@ -1,0 +1,13 @@
+{
+    "title": "Fictionio : Credit Card Payment",
+    "creditcard-payment": "Credit Card Payment",
+    "select-payment": "Select Payment Type",
+    "creditcard": "Credit Card",
+    "creditcard-number": "Credit Card Number",
+    "creditcard-expire-date": "Credit Card Expiry Date",
+    "creditcard-cvv": "CVV",
+    "creditcard-holder-name": "Card Holder Name",
+    "total-coin":"Total Coin",
+    "total-price":"Total Price",
+    "purchase": "Purchase"
+}

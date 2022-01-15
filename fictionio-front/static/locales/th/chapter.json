@@ -1,0 +1,27 @@
+{
+  "chapter-header": " - Fictionio",
+  "short-chapter-number": "ตอนที่",
+  "next-page" : "จบตอน / ไปตอนถัดไป",
+  "no-more-chapter" : "จบตอนล่าสุดแล้ว",
+  "publish-first" : "นิยายตอนนี้ยังไม่ถูกเผยแพร่สู่สาธารณะ เมื่อตรวจสอบงานเขียนเรียบร้อยแล้ว กรุณากดปุ่ม \"เผยแพร่นิยาย\"",
+  "ethereum-address": "นิยายตอนนี้ถูกบันทึกไว้บนเครือข่าย Ethereum : ",
+  "ethereum-click": "เรียกดูข้อมูล",
+  "creating-ethereum": "อยู่ระหว่างการบันทึกบนเครือข่าย Ethereum.",
+  "rating-score": {
+    "rating-10": "ผลงานชั้นยอด",
+    "rating-9": "ดีเยียม",
+    "rating-8": "ดีมาก",
+    "rating-7": "ดี",
+    "rating-6": "ค่อนข้างดี",
+    "rating-5": "พอใช้",
+    "rating-4": "ค่อนข้าง",
+    "rating-3": "แย่",
+    "rating-2": "แย่มาก",
+    "rating-1": "แย่ที่สุด"
+  },
+  "report": "แจ้งนิยายไม่เหมาะสม",
+  "translate-chapter"  :"แปลนิยายตอนนี้",
+  "publish-chapter" : "เผยแพร่นิยาย",
+  "purchase-this-chapter" : "ซื้อนิยายตอนนี้เพียง {{coin}} เหรียญ",
+  "not-enough-coin" : " คุณมีเหรียญไม่เพียงพอ ({{coin}}/{{price}}), ซื้อเหรียญเพิ่มเลย"
+}

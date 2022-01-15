@@ -1,0 +1,21 @@
+{
+    "chapter-new-title" : "เพิ่มนิยายตอนใหม่ - Fictionio",
+    "chapter-edit-title" : "แก้ไขนิยาย - Fictionio",
+    "chapter-new-title-success" : "เพิ่มนิยายตอนใหม่สำเร็จ - Fictionio",
+    "chapter-edit-title-success" : "แก้ไขนิยายสำเร็จ- Fictionio",
+    "chapter-new-header" : "เพิ่มนิยายตอนใหม่",
+    "chapter-edit-header" : "แก้ไขนิยาย",
+    "chapter-new-success" : "เพิ่ม {{chaptername}} สำเร็จ",
+    "chapter-edit-success" : "แก้ไข {{chaptername}} สำเร็จ",
+    "chapter-number" : "ตอนที่",
+    "free-chapter" : "ตอนพิเศษ (ฟรี)",
+    "chapter-content" : "เนื้อหา",
+    "chapter-content-placeholder" : "(ระบุเป็นภาษาเดียวกับภาษาที่เลือก)",
+    "chapter-name" : "ชื่อตอน",
+    "chapter-name-place-holder" : "(ระบุเป็นภาษาเดียวกับภาษาที่เลือก)",
+    "original-language" : "ภาษาต้นฉบับ",
+    "language" : "ภาษาต",
+    "add-new-chapter" :"บันทึกนิยาย",
+    "save-edit-chapter" :"บันทึกการแก้ไขนิยาย",
+    "back" : "ย้อนกลับ"
+}

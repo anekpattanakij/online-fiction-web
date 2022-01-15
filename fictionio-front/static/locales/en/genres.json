@@ -1,0 +1,12 @@
+{
+    "ADV" : "Adventure",
+    "HAR" : "Harem",
+    "HIS" : "Historical",
+    "ROM" : "Romantic",
+    "HOR" : "Horror",
+    "MYS" :"Mystery",
+    "OTH" :"Other",
+    "FAN" : "Fantasy" , 
+    "DOC" : "Documentary",
+    "YAO" : "Yaoi"
+}

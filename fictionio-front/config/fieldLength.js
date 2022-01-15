@@ -1,0 +1,14 @@
+export const EMAIL_MIN = 4;
+export const EMAIL_MAX = 40;
+export const DISPLAY_NAME_MIN = 4;
+export const DISPLAY_NAME_MAX = 20;
+export const FIRST_NAME_MIN = 4;
+export const FIRST_NAME_MAX = 20;
+export const LAST_NAME_MIN = 4;
+export const LAST_NAME_MAX = 20;
+export const PASSWORD_MIN = 6;
+export const PASSWORD_MAX = 20;
+export const FICTION_NAME_MIN = 3;
+export const FICTION_NAME_MAX = 50;
+export const CHAPTER_NAME_MIN = 3;
+export const CHAPTER_NAME_MAX = 50;

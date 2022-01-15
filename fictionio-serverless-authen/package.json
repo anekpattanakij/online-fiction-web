@@ -1,0 +1,43 @@
+{
+  "name": "fictionio-authen-prod",
+  "version": "1.0.0",
+  "description": "Serverless webpack example using Babel with offline testing",
+  "main": "authen-build/index.js",
+  "keywords": [
+    "serverless",
+    "offline",
+    "typescript"
+  ],
+  "author": "Anupol Anekpattanakij <a.anekpattanakij@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --project tsconfig.json ",
+    "deploy-offline-function-service1": "functions deploy user --trigger-http",
+    "deploy-offline-function-service2": "functions deploy session --trigger-http",
+    "deploy-offline-function-service3": "functions deploy password --trigger-http",
+    "deploy-function-service1": "gcloud functions deploy user --runtime nodejs8 --trigger-http",
+    "deploy-function-service2": "gcloud functions deploy session --runtime nodejs8 --trigger-http",
+    "deploy-function-service3": "gcloud functions deploy password --runtime nodejs8 --trigger-http"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^1.2.0",
+    "@types/node": "^11.13.0",
+    "@types/validator": "^10.11.0",
+    "axios": "^0.18.0",
+    "js-sha3": "^0.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "nodemailer": "^6.1.0",
+    "path-to-regexp": "^3.0.0",
+    "stampery": "^6.1.0",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.4.2",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.1",
+    "prettier": "^1.16.4",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript-eslint-parser": "^22.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "chapter-new-title" : "Add New Chapter - Fictionio",
+    "chapter-edit-title" : "Edit chapter - Fictionio",
+    "chapter-new-title-success" : "Add New chapter Success - Fictionio",
+    "chapter-edit-title-success" : "Edit chapter Success- Fictionio",
+    "chapter-new-header" : "Add New chapter",
+    "chapter-edit-header" : "Edit chapter",
+    "chapter-new-success" : "Add {{chaptername}} success",
+    "chapter-edit-success" : "Edit {{chaptername}} success",
+    "chapter-number" : "Chapter number",
+    "free-chapter" : "Special chapter (Free)",
+    "chapter-content" : "Chapter content",
+    "chapter-content-placeholder" : "(Should be same language as selected language)",
+    "chapter-name" : "Name",
+    "chapter-name-place-holder" : "(Should be same language as selected language)",
+    "original-language" : "Original langauge",
+    "language" : "Langauge",
+    "add-new-chapter" :"Submit new chapter",
+    "save-edit-chapter" :"Submit edit chapter",
+    "back" : "Back"
+}

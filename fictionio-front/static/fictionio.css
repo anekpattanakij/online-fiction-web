@@ -1,0 +1,247 @@
+.errorMessageShow {
+  color: red;
+}
+
+body {
+  font-size: .875rem
+}
+
+.form-control {
+  font-size: .875rem
+}
+
+.dropdown-item {
+  font-weight: 250;
+}
+.modal.left .modal-dialog,
+.modal.right .modal-dialog {
+  position: fixed;
+  margin: auto;
+  width: 275px;
+  height: 100%;
+  transform: translate3d(0%, 0, 0);
+}
+
+.modal.left .modal-content,
+.modal.right .modal-content {
+  height: 100%;
+  overflow-y: auto;
+}
+
+div.form-narrow {
+  max-width: 304px;
+}
+
+div.large_logo {
+  width: 130px;
+  height: 270px;
+}
+
+.flag-icon {
+  display: inline-block;
+  width: 24px;
+  min-width: 24px;
+  height: 24px;
+}
+
+.fictionio-logo {
+  width: 34px;
+  min-width: 34px;
+}
+
+.coin-icon {
+  display: inline-block;
+  width: 24px;
+  min-width: 24px;
+  height: 24px;
+}
+
+a,
+.nav-tabs .nav-link:not(.active):hover,
+.nav-tabs .nav-link:focus {
+  color: #04101b;
+}
+
+.nav.nav-tabs li a:hover {
+  color: #000;
+}
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus {
+  color: #d4d8ea;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-link.active:hover,
+.nav-tabs .nav-item.show .nav-link,
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background: #626d80;
+  color: #fff;
+}
+.nav-pills .nav-link:not(.active),
+.nav-pills .show > .nav-link {
+  background: #f8f9fa;
+}
+.nav-tabs .nav-link:not(.active):hover,
+.nav-tabs .nav-link:focus,
+.nav-pills .nav-link:not(.active):hover {
+  background: #e3e8f0;
+  color: #184c7a;
+}
+
+.recharge-box-section {
+  border: 1px solid #d8d8d8;
+}
+
+.recharge-box {
+  display: flex;
+  padding: 20px;
+}
+
+@media screen and (max-width: 767px) {
+  .recharge-box .recharge-item-group .recharge-detail {
+    width: 100%;
+    padding: 0px;
+    display: inline-flex;
+  }
+
+  .recharge-box .recharge-item-group {
+    flex-direction: column;
+    margin-left: 14px;
+    width: 100%;
+    padding: 20px;
+  }
+  .recharge-box .recharge-coin {
+    width: calc(100% / 3);
+    height: 100%;
+    padding: 20px;
+  }
+
+  .recharge-box .recharge-item-group .recharge-detail .coin-detail {
+    width: calc(100% * 2 / 3);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .recharge-box .recharge-item-group .recharge-detail {
+    width: calc(100% / 3);
+    height: 100%;
+    padding-left: 20px;
+    border-left: 1px solid #d8d8d8;
+  }
+
+  .recharge-box .recharge-coin {
+    width: calc(100% / 4);
+    height: 100%;
+    padding-left: 20px;
+  }
+
+  .recharge-box .recharge-item-group {
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: unset;
+  }
+}
+
+.notice-charge {
+  padding: 10px 0;
+}
+
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -epub-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+.tab-divider {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #d8d8d8;
+}
+
+.tab-nav {
+  display: flex;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.tab-nav ul {
+  list-style: none;
+}
+
+.tab-nav li {
+  flex-basis: 0;
+  flex-shrink: 1;
+  flex-grow: 1;
+}
+
+.payment-box .payment-box-body {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .payment-box .payment-box-body {
+    flex-direction: column;
+  }
+}
+
+.payment-box .payment-box-body .payment-supplier {
+  flex-grow: 1;
+}
+
+.payment-supplier-list,
+.payment-option-list {
+  list-style: none;
+}
+
+.payment-box .payment-box-body .payment-detail {
+  flex-grow: 1;
+}
+
+@media screen and (min-width: 768px) {
+  .payment-box .payment-box-body .payment-detail {
+    border-left: 1px solid #d8d8d8;
+    padding-left: 20px;
+  }
+}
+
+.withdrawal-box .withdrawal-box-body {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .withdrawal-box .withdrawal-box-body {
+    flex-direction: column;
+  }
+}
+
+.withdrawal-box .withdrawal-box-body .withdrawal-supplier {
+  flex-grow: 1;
+  min-width: 40%;
+}
+
+.withdrawal-supplier-list,
+.withdrawal-option-list {
+  list-style: none;
+}
+
+.withdrawal-box .withdrawal-box-body .withdrawal-detail {
+  flex-grow: 1;
+}
+
+@media screen and (min-width: 768px) {
+  .withdrawal-box .withdrawal-box-body .withdrawal-detail {
+    border-left: 1px solid #d8d8d8;
+    padding-left: 20px;
+  }
+}

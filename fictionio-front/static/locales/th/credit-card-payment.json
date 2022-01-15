@@ -1,0 +1,12 @@
+{
+    "title": "ชำระเงิน",
+    "creditcard-payment": "ชำระเงินด้วยบัตรเครดิต",
+    "creditcard": "บัตรเครดิต",
+    "creditcard-number": "หมายเลขบัตรเครดิต",
+    "creditcard-expire-date": "วันหมดอายุ",
+    "creditcard-cvv": "CVV",
+    "creditcard-holder-name": "ชื่อผู้ถือบัตร",
+    "total-coin":"จำนวนเหรียญ",
+    "total-price":"ราคา",
+    "purchase": "ชำระเงิน"
+}

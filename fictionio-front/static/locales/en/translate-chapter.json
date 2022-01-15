@@ -1,0 +1,17 @@
+{
+    "chapter-translate-title": "Translate Chapter - Fictionio",
+    "chapter-translate-title-success": "Translate fiction success - Fictionio",
+    "chapter-translate-header": "Translate Chapter",
+    "chapter-translate-success": "Save translate for {{chaptername}} successful.",
+    "chapter-name": "Chapter name",
+    "translate-chapter-name": "Translate chapter name",
+    "translate-chapter-name-place-holder": "(Should be same language as translate language)",
+    "original-language": "Original langauge",
+    "to-language": "Translate to langauge",
+    "to-language-place-holder": "Please select",
+    "content": "Content",
+    "translate-content": "Translate content",
+    "translate-content-place-holder": "(Should be same language as translate language)",
+    "save-translate-chapter": "Submit translated chapter",
+    "not-allow-to-translate" : "Not allow to translate from translated chapter."
+}

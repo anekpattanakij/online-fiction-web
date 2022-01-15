@@ -1,0 +1,18 @@
+{
+  "guest" : "Guest",
+  "menu-fiction": "Fiction",
+  "menu-info": "Info",
+  "menu-privacy-policy": "Privacy policy",
+  "menu-term-of-use": "Term of use",
+  "menu-about-us": "About us",
+  "menu-write-new-story": "Write New Story",
+  "menu-translate-fiction": "Translate Fiction",
+  "menu-fiction-search": "Search",
+  "menu-fiction-add": "Add",
+  "menu-fiction-login": "Login",
+  "menu-fiction-signup": "Signup",
+  "menu-fiction-profile": "Profile",
+  "menu-fiction-coin": "Coin",
+  "menu-fiction-log-out" : "Log out",
+  "menu-search" : "Quick search"
+}

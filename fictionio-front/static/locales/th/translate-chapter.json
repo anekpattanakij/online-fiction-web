@@ -1,0 +1,16 @@
+{
+  "chapter-translate-title": "แปลนิยาย - Fictionio",
+  "chapter-translate-title-success": "แปลนิยายสำเร็จ - Fictionio",
+  "chapter-translate-header": "แปลนิยาย",
+  "chapter-translate-success": "บันทึกคำแปล {{chaptername}} สำเร็จ",
+  "chapter-name": "ชื่อตอน",
+  "translate-chapter-name": "แปลชื่อตอน",
+  "translate-chapter-name-place-holder": "(ระบุเป็นภาษาเดียวกับภาษาที่แปล)",
+  "original-language": "ภาษาต้นฉบับ",
+  "to-language": "แปลเป็นภาษา",
+  "to-language-place-holder": "กรุณาเลือก",
+  "content": "เนื้อหา",
+  "translate-content": "คำแปลเนื้อหานิยาย",
+  "translate-content-place-holder": "(ระบุเป็นภาษาเดียวกับภาษาที่แปล)",
+  "save-translate-chapter": "บันทึกคำแปลนิยาย"
+}

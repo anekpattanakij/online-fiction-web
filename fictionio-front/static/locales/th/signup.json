@@ -1,0 +1,14 @@
+{
+    "title-signup": "สมัครสมาชิก", 
+    "header-signup": "สมัครสมาชิก", 
+    "user-signup": "สมัครสมาชิก",
+    "display-name": "ชื่อในระบบ",
+    "e-mail" : "อีเมลล์",
+    "re-e-mail" : "อีเมลล์อีกครั้ง",
+    "password" : "รหัสผ่าน",
+    "re-password" : "รหัสผ่านอีกครั้ง",
+    "password-mismatch" : "รหัสผ่านไม่ตรงกัน",
+    "email-mismatch" : "อีเมลล์ไม่ตรงกัน",
+    "submit" : "ลงทะเบียน"
+  }
+  

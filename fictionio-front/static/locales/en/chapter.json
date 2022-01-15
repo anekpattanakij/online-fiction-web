@@ -1,0 +1,27 @@
+{
+  "chapter-header": " - Fictionio",
+  "short-chapter-number": "Ch.",
+  "next-page" : "End of chapter / Go to next",
+  "no-more-chapter" : "No more chapter",
+  "publish-first" : "This chapter has not show to the public yet, it will show to the public after publish.",
+  "ethereum-address": "This chapter has stored in etheruem network",
+  "ethereum-click": "View Transaction ",
+  "creating-ethereum": "Creating stamp on etheruem network.",
+  "rating-score": {
+    "rating-10": "Masterpiece",
+    "rating-9": "Great",
+    "rating-8": "Very good",
+    "rating-7": "Good",
+    "rating-6": "Fine",
+    "rating-5": "Average",
+    "rating-4": "Bad",
+    "rating-3": "Very Bad",
+    "rating-2": "Horrible",
+    "rating-1": "Appalling"
+  },
+  "report": "report",
+  "translate-chapter"  :"Translate this chapter",
+  "publish-chapter" : "Publish chapter",
+  "purchase-this-chapter" : "Purchase this chapter only {{coin}} coins.",
+  "not-enough-coin" : " You have not enough coin ({{coin}}/{{price}}),Purchase coins."
+}

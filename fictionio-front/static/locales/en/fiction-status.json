@@ -1,0 +1,9 @@
+{
+    "0" : "Draft",
+    "30" : "On going",
+    "50" : "Completed",
+    "60" : "On hold",
+    "70" : "Suspend by admin",
+    "80" : "Dropped",
+    "90" : "Deleted"
+}

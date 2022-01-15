@@ -1,0 +1,14 @@
+{
+    "title-signup": "Sign up : Fictionio", 
+    "header-signup": "Sign Up", 
+    "user-signup": "Sign Up", 
+    "display-name": "Display Name",
+    "e-mail" : "E-mail",
+    "re-e-mail" : "E-mail (again)",
+    "password" : "Password",
+    "re-password" : "Password (again)",
+    "password-mismatch" : "Password mismatch",
+    "email-mismatch" : "Email mismatch",
+    "submit" : "Submit"
+  }
+  

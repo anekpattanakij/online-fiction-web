@@ -1,0 +1,15 @@
+{
+  "title": "Bank Transfer",
+  "bank-transfer": "Bank Transfer",
+  "bank-transfer-amount": "Transfer Amount",
+  "bank-transfer-time": "Transfer Time (hh:mm:ss)",
+  "bank-transfer-date": "Transfer Date",
+  "bank-transfer-reference-number": "Transfer Reference Number",
+  "bank-transfer-fictionio-account-detail": "Please Transfer to Bank Account : Bank Of Ayudhya, Account Name : Ads Sort Co., Ltd. Account Number 778-1-12267-4",
+  "bank-transfer-fictionio-account-name": "Ads Sort Co., Ltd.",
+  "bank-transfer-fictionio-account-number": "778-1-12267-4",
+  "bank-transfer-time-agreement": "Fictionio will redeem your coin in the same working day. if you submitted request after 16:00, company will redeem your coins on next working day.",
+  "total-coin": "Total Coin",
+  "total-price": "Total Price",
+  "purchase": "Purchase"
+}

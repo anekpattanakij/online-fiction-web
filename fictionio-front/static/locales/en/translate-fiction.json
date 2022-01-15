@@ -1,0 +1,21 @@
+{
+  "fiction-translate-title": "Translate Fiction - Fictionio",
+  "fiction-translate-title-success": "Translate fiction success - Fictionio",
+  "fiction-translate-header": "Translate fiction",
+  "fiction-translate-success": "Save translate for {{fictionname}} successful.",
+  "fiction-name": "Name",
+  "translate-fiction-name": "Translate name",
+  "translate-fiction-name-place-holder": "(Should be same language as translate language)",
+  "original-language": "Original langauge",
+  "to-language": "Translate to langauge",
+  "to-language-place-holder": "Please select",
+  "short-story": "Short story",
+  "translate-short-story": "Translate short story",
+  "translate-short-story-place-holder": "(Should be same language as translate language)",
+  "save-translate-fiction": "Submit translate fiction",
+  "price-model": "Pricing model",
+  "price-model-place-holder": "Pricing model",
+  "price": "Price",
+  "price-place-holder": "Price",
+  "not-translate-yet" : "Not translate yet."
+}

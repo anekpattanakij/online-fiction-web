@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100.54166mm"
+   height="92.604164mm"
+   viewBox="0 0 100.54166 92.604164"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="fictionio_draft_small.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="266.34361"
+     inkscape:cy="182.11942"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3713"
+       originx="-44.979166"
+       originy="-108.47916" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.979164,-95.916664)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#FFFFFF;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.050594"
+       y="176.80357"
+       id="text3717"><tspan
+         sodipodi:role="line"
+         id="tspan3715"
+         x="54.050594"
+         y="176.80357"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy,  Bold';stroke-width:0.26458332">Fictionio</tspan></text>
+    <circle
+       id="path3719"
+       cx="95.156319"
+       cy="115.74765"
+       r="7.9375"
+       style="stroke-width:0.26458332" />
+    <path
+       style="fill:none;stroke:#FFFFFF;stroke-width:3.9000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 137.58333,122.375 c 0,0 -42.33333,0 -42.33333,37.04167"
+       id="path3723"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#FFFFFF;stroke-width:3.93821478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.916667,121.64552 c 0,0 42.333333,0 42.333333,37.77115"
+       id="path3723-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#FFFFFF;stroke-width:4.03688383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.916666,119.72917 c 0,39.6875 0,39.6875 0,39.6875"
+       id="path4562"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#FFFFFF;stroke-width:4.06561661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 137.48884,120.48512 c 0,40.25446 0,40.25446 0,40.25446"
+       id="path4562-0"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
